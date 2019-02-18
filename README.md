@@ -1,8 +1,9 @@
 # Studying Search Engine
 
-[information retrieval](https://www.math.unipd.it/~aiolli/corsi/0910/IR/irbookprint.pdf)
+## information retrieval
+[information retrieval pdf](https://www.math.unipd.it/~aiolli/corsi/0910/IR/irbookprint.pdf)
 
-## What about search engine
+## about search engine
 
 ### Open Source Search Engine
 - elastic search
@@ -24,9 +25,18 @@
 
 ## URL Normalization
 
-### what about url normalization
+### URL
+[what is a url](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
+[what is a domain name](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
+
+##### public suffix domain
+[public suffix list](https://publicsuffix.org/learn/)
+
+
+### url normalization
 [wiki](https://en.wikipedia.org/wiki/URL_normalization)
 
 ### url normalization papers
 - [https://link.springer.com/chapter/10.1007/11424826_115](https://link.springer.com/chapter/10.1007/11424826_115)
 - [https://www.researchgate.net/publication/326699437_Removing_Duplicate_URLs_based_on_URL_Normalization_and_Query_Parameter](https://www.researchgate.net/publication/326699437_Removing_Duplicate_URLs_based_on_URL_Normalization_and_Query_Parameter)
+
