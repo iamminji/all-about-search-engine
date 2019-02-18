@@ -26,8 +26,8 @@
 ## URL Normalization
 
 ### URL
-[what is a url](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
-[what is a domain name](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
+- [what is a url](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
+- [what is a domain name](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
 
 ##### public suffix domain
 [public suffix list](https://publicsuffix.org/learn/)
