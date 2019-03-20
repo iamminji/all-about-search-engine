@@ -40,3 +40,6 @@
 - [https://link.springer.com/chapter/10.1007/11424826_115](https://link.springer.com/chapter/10.1007/11424826_115)
 - [https://www.researchgate.net/publication/326699437_Removing_Duplicate_URLs_based_on_URL_Normalization_and_Query_Parameter](https://www.researchgate.net/publication/326699437_Removing_Duplicate_URLs_based_on_URL_Normalization_and_Query_Parameter)
 
+## etc
+- [Clearly 로직 분석: 본문/제목 선정 로직 분석](https://d2.naver.com/helloworld/112673)
+- [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)
