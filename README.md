@@ -49,7 +49,7 @@ top level domain
 - [https://link.springer.com/chapter/10.1007/11424826_115](https://link.springer.com/chapter/10.1007/11424826_115)
 - [https://www.researchgate.net/publication/326699437_Removing_Duplicate_URLs_based_on_URL_Normalization_and_Query_Parameter](https://www.researchgate.net/publication/326699437_Removing_Duplicate_URLs_based_on_URL_Normalization_and_Query_Parameter)
 
-### SEO
+## SEO
 SEO 관련된 사이트/커뮤니티 톺아보기
 - [웹 문서 마케팅 커뮤니티](https://www.i-boss.co.kr/ab-74625)
 
