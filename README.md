@@ -28,11 +28,6 @@
 
 ### URI (URL)
 
-#### Path
-[RFC 3986](https://tools.ietf.org/html/rfc3986) 의 Path 부분을 번역해보았다.
-
-path 컴포넌트는 데이터, 대게는 
-
 ##### 관련 RFC 참고
 - [RFC 1738](https://tools.ietf.org/html/rfc1738)
 - [RFC 3986](https://tools.ietf.org/html/rfc3986)
@@ -57,4 +52,9 @@ top level domain
 ### SEO
 SEO 관련된 사이트/커뮤니티 톺아보기
 - [웹 문서 마케팅 커뮤니티](https://www.i-boss.co.kr/ab-74625)
+
+## etc
+- [Clearly 로직 분석: 본문/제목 선정 로직 분석](https://d2.naver.com/helloworld/112673)
+- [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)
+- [DOM-based Content Extraction of HTML Documents](http://www2003.org/cdrom/papers/refereed/p583/p583-gupta.html)
 
