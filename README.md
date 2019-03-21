@@ -1,7 +1,8 @@
 # Studying Search Engine
 
 ## information retrieval
-[information retrieval pdf](https://www.math.unipd.it/~aiolli/corsi/0910/IR/irbookprint.pdf)
+- [information retrieval pdf](https://www.math.unipd.it/~aiolli/corsi/0910/IR/irbookprint.pdf)
+- [mooc lessons (Text Retrieval and Search Engines)](https://www.coursera.org/learn/text-retrieval?specialization=data-mining)
 
 ## about search engine
 
@@ -25,13 +26,26 @@
 
 ## URL Normalization
 
-### URL
-[what is a url](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
-[what is a domain name](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
+### URI (URL)
+
+#### Path
+[RFC 3986](https://tools.ietf.org/html/rfc3986) 의 Path 부분을 번역해보았다.
+
+path 컴포넌트는 데이터, 대게는 
+
+##### 관련 RFC 참고
+- [RFC 1738](https://tools.ietf.org/html/rfc1738)
+- [RFC 3986](https://tools.ietf.org/html/rfc3986)
+
+##### mozilla documents
+- [what is a url](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
+- [what is a domain name](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
 
 ##### public suffix domain
 [public suffix list](https://publicsuffix.org/learn/)
 
+##### tld
+top level domain
 
 ### url normalization
 [wiki](https://en.wikipedia.org/wiki/URL_normalization)
@@ -39,4 +53,8 @@
 ### url normalization papers
 - [https://link.springer.com/chapter/10.1007/11424826_115](https://link.springer.com/chapter/10.1007/11424826_115)
 - [https://www.researchgate.net/publication/326699437_Removing_Duplicate_URLs_based_on_URL_Normalization_and_Query_Parameter](https://www.researchgate.net/publication/326699437_Removing_Duplicate_URLs_based_on_URL_Normalization_and_Query_Parameter)
+
+### SEO
+SEO 관련된 사이트/커뮤니티 톺아보기
+- [웹 문서 마케팅 커뮤니티](https://www.i-boss.co.kr/ab-74625)
 
