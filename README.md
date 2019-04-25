@@ -1,4 +1,7 @@
-# Studying Search Engine
+# Studying Search System
+
+## 구글의 검색 시스템
+- [how google search works](https://www.google.com/intl/ko/search/howsearchworks/)
 
 ## information retrieval
 - [information retrieval pdf](https://www.math.unipd.it/~aiolli/corsi/0910/IR/irbookprint.pdf)
