@@ -4,7 +4,7 @@
 __정밀도__ precision 는 검색된 결과들 중 관련 있는 것으로 분류된 결과물의 비율이고, __재현율__ recall 은 관련 있는 것으로 분류된 항목들 중 실제 검색된 항목들의 비율이다.
 
 
-- [wiki](https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B0%80%EB%8F%84%EC%99%80_%EC%9E%AC%ED%98%84%EC%9C%A8
+- [wiki](https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B0%80%EB%8F%84%EC%99%80_%EC%9E%AC%ED%98%84%EC%9C%A8)
 - [google 머신러닝 코스](https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall?hl=ko)
 
 ## wildcard
