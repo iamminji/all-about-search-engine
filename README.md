@@ -21,6 +21,12 @@
 - [colly](https://github.com/gocolly/colly)
 - [crawler4j](https://github.com/yasserg/crawler4j)
 
+### robots.txt
+웹 크롤러는 사이트에서 명시한 `robots.txt` 의 룰에 따라 크롤링을 진행한다. 보통 각 `User-agent`에 따른 크롤 유효성을 위한 `Allow`, `Disallow`, `Crawl-delay` 를 주로 키로 갖는다.
+
+- [구글 웹 마스터 도구](https://support.google.com/webmasters/answer/6062608?hl=ko)
+- [구글 robots.txt 사양](https://developers.google.com/search/reference/robots_txt?hl=ko)
+
 ## Parser
 
 ### Parser Library
